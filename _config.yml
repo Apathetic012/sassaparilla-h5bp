@@ -1,4 +1,3 @@
 exclude:
-  - sass
   - README.md
   - config.rb

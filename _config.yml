@@ -1,4 +1,4 @@
 exclude:
-  - assets/sass
+  - "assets/sass"
   - README.md
   - config.rb

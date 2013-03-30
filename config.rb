@@ -20,7 +20,7 @@ javascripts_dir = "js"
 
 # Environment
 # -----------------------------------------------------------------------------
-environment = :production
+environment = :development
 
 
 # SASS core

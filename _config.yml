@@ -1,0 +1,4 @@
+exclude:
+  - assets/sass
+  - README.md
+  - config.rb

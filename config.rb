@@ -18,18 +18,9 @@ javascripts_dir = "assets/js"
 
 
 
-# Output style and comments
+# Environment
 # -----------------------------------------------------------------------------
-
-# You can select your preferred output style here (can be overridden via the command line):
-# output_style = :expanded or :nested or :compact or :compressed
-# Over-ride with force compile to change output style with: compass compile --output-style compressed --force
-output_style = :expanded
-
-
-# Remove SASS/Compass relative comments.
-line_comments = false
-
+environment = :production
 
 
 # SASS core

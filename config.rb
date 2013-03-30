@@ -34,6 +34,7 @@ Sass::Script::Number.precision = 7
 # Stuff we don't really need below
 # -----------------------------------------------------------------------------
 
+sass_options = { :debug_info => true }
 # To enable relative paths to assets via compass helper functions. Uncomment:
 relative_assets = true
 
